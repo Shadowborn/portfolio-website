@@ -1336,8 +1336,18 @@ input, select, textarea {
 
 				#header nav ul li:first-child {
 					border-left: 0;
-					background:royalblue;
+					background:rgba(120, 135, 182, 0.404);
 				}
+				#header .nav2 {
+					background:rgba(120, 135, 182, 0.404);
+				}
+				#header .nav3 {
+					background:rgba(120, 135, 182, 0.404);
+				}
+				#header .nav4 {
+					background:rgba(120, 135, 182, 0.404);
+				}
+				
 
 				#header nav ul li a {
 					display: block;
